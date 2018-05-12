@@ -1,4 +1,5 @@
 _repo: Isla-Heron_49749
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Merrill, Frank T.
@@ -8,6 +9,9 @@ contributor:
     birthdate: 1848
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 49749-h/images/cover.jpg
 creator:
   author:
     agent_name: Richards, Laura Elizabeth Howe
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1753
     wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49749#Isla-Heron
 gutenberg_issued: '2015-08-21'
 gutenberg_type: Text
 identifiers:
